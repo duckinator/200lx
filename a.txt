@@ -1,0 +1,10 @@
+# First very bad attempt
+
+Run `copy con beep.bat`, then type this (where ^X = ctrl+x, <RET> = enter):
+
+    echo off
+    :a
+    echo ^G
+    ping 10.254.254.254 -n 1 -w 200 >nul
+    goto :a
+    ^Z<RET>
