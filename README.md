@@ -5,6 +5,12 @@ Various experiments with writing programs for an HP 200LX.
 In this README, and throughout this repo, I use `^X` as shorthand for
 "Ctrl-X" and `<RET>` as shorthand for pressing enter.
 
+## Possibly-useful links
+
+- [DEBUG.EXE, Page 1](https://thestarman.pcministry.com/asm/debug/debug.htm)
+- [DEBUG.EXE, Page 2](https://thestarman.pcministry.com/asm/debug/debug2.htm)
+- [HP 200LX Manual](http://h10032.www1.hp.com/ctg/Manual/bpia5259.pdf)
+
 ## Copying files
 
 To copy a file to the 200LX (if you don't have a serial cable), you can:
